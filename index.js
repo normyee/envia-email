@@ -1,4 +1,3 @@
-//ixpedofwvuldrpzd senha do app
 const nodemailer = require("nodemailer");
 const banner = require("./banner.js");
 const prompt = require("prompt");
