@@ -18,14 +18,19 @@ Este projeto foi programado utilizando a biblioteca "prompt" para criar a parte 
 $ npm install
 ```
 
-## Execução
-Para iniciar e o projeto, utilize os comandos:
+## Iniciação do projeto
+Para iniciar o projeto, utilize os comandos:
 ```sh
 $ git clone https://github.com/usuario/projeto.git
 $ cd projeto
 $ npm install
 $ npm start
 ```
+## Para executar use o comando:
+```sh
+$ node index.js
+```
+
 ## Notas
 Certifique-se de que a senha do email escolhido é válida e que você tem permissão para usar a conta de email.
 Caso esteja usando gmail, é necessário habilitar o acesso de aplicativos menos seguros e gerar uma senha de app.
