@@ -21,7 +21,7 @@ $ npm install
 ## Iniciação do projeto
 Para iniciar o projeto, utilize os comandos:
 ```sh
-$ git clone https://github.com/usuario/projeto.git
+$ git clone https://github.com/normyee/envia-email.git
 $ cd projeto
 $ npm install
 $ npm start
